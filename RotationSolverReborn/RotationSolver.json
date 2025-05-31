@@ -1,3 +1,4 @@
+[
 {
   "Author": "The Combat Reborn Team",
   "Name": "Rotation Solver Reborn",
@@ -21,4 +22,8 @@
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
   "Punchline": "Analyses combat information every frame and finds the best action.",
   "AcceptsFeedback": true
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/plugins/main/RotationSolverReborn/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Ookura-Risona/plugins/main/RotationSolverReborn/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/plugins/main/RotationSolverReborn/latest.zip"
 }
+]
